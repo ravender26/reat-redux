@@ -1,5 +1,9 @@
 import React from "react";
 
+/**
+ * The Header component represents the header section of the FakeShop application.
+ * It displays the title of the application.
+ */
 const Header = () => {
   return (
     <div className="ui fixed menu">
